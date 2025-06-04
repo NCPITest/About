@@ -17,5 +17,5 @@ The current NCPI External Advisory Board members are:
 *   **Matthew Trunnell** - Culmination Bio
 *   **Jason Williams** - Cold Spring Harbor Laboratory, DNA Learning Center
 
-Website content is subject to change. This page was last reviewed on May 20, 2025.
+
 
