@@ -5,7 +5,11 @@ NIH Cloud Platform Interoperability Program
 
 Helping to create a federated data ecosystem
 --------------------------------------------
-![ncpi-diagram](https://github.com/user-attachments/assets/a0f16114-1260-4f26-8c1f-ba4a46730e6f)
+<img
+  src="https://github.com/user-attachments/assets/a0f16114-1260-4f26-8c1f-ba4a46730e6f"
+  alt="High-level diagram illustrating the NCPI structure"
+  width="350"
+/>
 
 The NIH Cloud Platform Interoperability (NCPI) program includes multiple organizational components that work in tandem to advance the goal of enabling a federated data ecosystem that will facilitate researcher-driven analyses of datasets across multiple cloud-based platforms and repositories. Each component serves a specific role and contributes to the success of the NCPI Program by working in alignment and collaboration with other NCPI components. NCPI organizational components include the following groups:
 *   [NCPI Program Office in the Office of Data Science Strategy (ODSS)](https://github.com/NCPITest/About/blob/main/NIH-ODSS.md)
