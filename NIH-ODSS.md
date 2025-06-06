@@ -24,7 +24,7 @@ https://datascience.nih.gov/
 
 Website content is subject to change. This page was last reviewed on May 20, 2025.
 
-**Quick Links:**  
+**Quick Links:**  - links to be updated after transfer
 [Home](/) • [About](/about) • [Partners](/partners) • [Projects](/projects) • [Resources](/resources) • [Events](/events) • [Contact](/contact)
 
 **Follow NCPI:**  
