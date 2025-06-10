@@ -28,4 +28,3 @@ ACC's performance as the overall administrative body of the NCPI ecosystem is ce
 
 If you would like additional information about the ACC's role in the NCPI ecosystem, please email [ncpi-acc-info@rti.org](mailto:ncpi-acc-info@rti.org).
 
-Website content is subject to change. This page was last reviewed on May 20, 2025.
