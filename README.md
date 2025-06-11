@@ -28,8 +28,7 @@ The NIH Cloud Platform Interoperability (NCPI) program includes multiple organiz
 *   [NCPI Administrative Coordinating Center (ACC)](ACC.md)
 *   [External Advisory Board (EAB)](https://github.com/NCPITest/About/blob/main/ACC.md)
 *   [NCPI Technical Working Groups](https://github.com/NCPITest/About/blob/main/Working-Groups.md)
-*   NCPI Leadership Group
-*   [Interoperability Projects](Projects/README.md)
+*   [Interoperability Projects](https://github.com/NCPITest/Projects/blob/main/README.md)
 
 
 
