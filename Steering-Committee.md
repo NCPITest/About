@@ -1,6 +1,6 @@
-# NCPI Steering Committee
+[Home](https://github.com/NCPITest)/[Resources](README.md)/Steering Committee
 
-**Breadcrumbs:** [Home](/) / [About](/about) / Steering Committee
+# NCPI Steering Committee
 
 > The NCPI Steering Committee (SC) includes NIH staff from ODSS and NCPI Partners.
 
