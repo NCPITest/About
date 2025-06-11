@@ -10,9 +10,8 @@
   </h2>
 </div>
 
+# <p align="center"> NIH Cloud Platform Interoperability Program  </p>
 
-NIH Cloud Platform Interoperability Program
-===========================================
 * * *
 
 Helping to create a federated data ecosystem
