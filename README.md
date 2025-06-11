@@ -23,11 +23,11 @@ Helping to create a federated data ecosystem
      height="384" />
 
 The NIH Cloud Platform Interoperability (NCPI) program includes multiple organizational components that work in tandem to advance the goal of enabling a federated data ecosystem that will facilitate researcher-driven analyses of datasets across multiple cloud-based platforms and repositories. Each component serves a specific role and contributes to the success of the NCPI Program by working in alignment and collaboration with other NCPI components. NCPI organizational components include the following groups:
-*   [NCPI Program Office in the Office of Data Science Strategy (ODSS)](https://github.com/NCPITest/About/blob/main/NIH-ODSS.md)
-*   [NCPI Steering Committee](https://github.com/NCPITest/About/blob/main/Steering-Committee.md)
+*   [NCPI Program Office in the Office of Data Science Strategy (ODSS)](NIH-ODSS.md)
+*   [NCPI Steering Committee](Steering-Committee.md)
 *   [NCPI Administrative Coordinating Center (ACC)](ACC.md)
-*   [External Advisory Board (EAB)](https://github.com/NCPITest/About/blob/main/ACC.md)
-*   [NCPI Technical Working Groups](https://github.com/NCPITest/About/blob/main/Working-Groups.md)
+*   [External Advisory Board (EAB)](EAB.md)
+*   [NCPI Technical Working Groups](Working-Groups.md)
 *   [Interoperability Projects](https://github.com/NCPITest/Projects/blob/main/README.md)
 
 
@@ -39,5 +39,4 @@ The NCPI Program, overseen by NIH representatives, is a collaboration between pl
 
 NCPI was created as an outcome of the NIH Workshop on Cloud-Based Platforms Interoperability held at RENCI on October 3-4th, 2019 to facilitate interoperability among the genomic analysis platforms established by the NCI, NHGRI, NHLBI, and the NIH Common Fund.
 
-This website was developed by the NCPI Administrative Coordinating Center (ACC) (NIH Other Transaction Agreement: 1OT2OD034190)
 
