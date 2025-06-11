@@ -1,4 +1,4 @@
-[Home](https://github.com/NCPITest)/[About](README.md)/Coordinating Center
+[Home](https://github.com/NIH-NCPI)/[About](README.md)/Coordinating Center
 
 
 NCPI Administrative Coordinating Center (ACC)
@@ -27,7 +27,7 @@ ACC's performance as the overall administrative body of the NCPI ecosystem is ce
 *   **Task 5** - Support, facilitate, and monitor the adoption of RAS (NIH CIT Researcher Auth Service) by NCPI
 
 ### More information:
-[![RTI International](/img/logos/rti.png)](https://www.rti.org) [![Deloitte](/img/logos/deloitte.png)](https://www2.deloitte.com )
+[RTI International](https://www.rti.org) [Deloitte](https://www2.deloitte.com) <br>
 
 If you would like additional information about the ACC's role in the NCPI ecosystem, please email [ncpi-acc-info@rti.org](mailto:ncpi-acc-info@rti.org).
 
