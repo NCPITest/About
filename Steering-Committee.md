@@ -1,4 +1,4 @@
-[Home](https://github.com/NCPITest)/[Resources](README.md)/Steering Committee
+[Home](https://github.com/NCPITest)/[About](README.md)/Steering Committee
 
 # NCPI Steering Committee
 
