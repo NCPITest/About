@@ -19,6 +19,3 @@ The Steering Committee ensures alignment between the NCPI interoperability activ
 - **NIH OD:** Chris Kinsinger and Christy Kano  
 - **At-large member:** Valerie Cotton (NIH NICHD)  
 
----
-
-*Website content is subject to change. This page was last reviewed on May 20, 2025.*
