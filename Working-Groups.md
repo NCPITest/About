@@ -38,5 +38,5 @@ The Search Working Group spearheads improvements to the utility of search across
 
 The Search Working Group meets the 4th Tuesday of each month.
 
-Website content is subject to change. This page was last reviewed on May 20, 2025.
+
 
