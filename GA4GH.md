@@ -13,6 +13,7 @@
 
 
 The Global Alliance for Genomics & Health (GA4GH) is an international organization dedicated to advancing human health through genomic data. GA4GH builds out technical standards, policy frameworks, and tools to expand resonable, voluntary, and secure use of health and genomic data. Over 500 organizations in healthcare, patient advocacy, research, ethics, and government are involved in GA4GH. 
+<br>
 
 As a community, GA4GH developes open-source, no-cost products that simplify the request, access, and study of genomic data sored anywhere. The works of GA4GH builds on the Framework for responsible sharing of genomic and health-related data guided by the Universal Declaration of Human Rights. 
 
