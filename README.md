@@ -31,7 +31,8 @@ The NIH Cloud Platform Interoperability (NCPI) program includes multiple organiz
 *   [Interoperability Projects](https://github.com/NCPITest/Projects/blob/main/README.md)
 
 
-
+<br>
+<br>
 
 The NCPI Program, overseen by NIH representatives, is a collaboration between platform team members and researchers running cross-platform research efforts to inform and validate interoperability approaches.
 
