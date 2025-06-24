@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/7ce61adc-581f-4624-979d-b1c6bd8f87a3"
      align="right"
-     alt="High-level diagram illustrating the NCPI structure"
+     alt="Global Alliance for Genomics & Health (GA4GH) Logo"
      width="530"
      height="150" />
 
