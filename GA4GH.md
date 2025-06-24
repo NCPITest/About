@@ -20,7 +20,7 @@ As a community, GA4GH developes open-source, no-cost products that simplify the 
 
 More information about GA4GH can be found [here](https://www.ga4gh.org). 
 
-<h2> NCPI in GA4GH </h2>
+<h2> NCPI and GA4GH </h2>
 
 NCPI acts a driver project within GA4GH. In GA4GH, driver projects are a series of global genomic data initiatives that develop and pilot GA4GH products and applies them to real genomic data. 
 
