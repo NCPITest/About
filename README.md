@@ -40,7 +40,7 @@ The NCPI Program, overseen by NIH representatives, is a collaboration between pl
 
 NCPI was created as an outcome of the NIH Workshop on Cloud-Based Platforms Interoperability held at RENCI on October 3-4th, 2019 to facilitate interoperability among the genomic analysis platforms established by the NCI, NHGRI, NHLBI, and the NIH Common Fund.
 
-## Global Alliance for Genomics & Health
+<h2> Global Alliance for Genomics & Health (GA4GH) </h2>
 
 NCPI is a driver project of the Global Alliance for Genomics & Health (GA4GH). More information can be found [here](GA4GH.md). 
 
