@@ -1,4 +1,4 @@
-[Home](https://github.com/NCPITest)/[About](README.md)/Steering Committee
+<img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NCPITest)/[About](README.md)/Steering Committee
 
 # NCPI Steering Committee
 
