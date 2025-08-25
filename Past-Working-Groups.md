@@ -1,6 +1,6 @@
 <h2> Background </h2>
 
-Before the formation of the NCPI Administrative coordinating center, NCPI consisted of a series of working groups to serve as the governance body of NCPI projects, steward working group progress, support investigators, and coordinate with various parts of the NIH. 
+Before the formation of the NCPI Administrative Coordinating Center (ACC), NCPI consisted of a series of working groups to serve as the governance body of NCPI projects, steward working group progress, support investigators, and coordinate with various parts of the NIH. 
 
  | Working Group | Activities |
  | ------------- | --------- |
@@ -11,7 +11,8 @@ Before the formation of the NCPI Administrative coordinating center, NCPI consis
  | FHIR Working Group | Understand how cloud-based resources can leverage FHIR resources to serve the clinical data sharing needs of their communities | 
 
 
-The Administrative Coordinating Center (ACC), established in 2023 (CHECK YEAR) assumed the responsibilities of the Coordination, Comunity Governance, Systems Interoperation, and Training working groups. The FHIR Working Group remains as a critical component of the NCPI, and is currently developing the NCPI FHIR Implementation Guide V2. 
+
+When established in 2023 (CHECK YEAR), the ACC assumed the responsibilities of the Coordination, Comunity Governance, Systems Interoperation, and Training working groups. The FHIR Working Group remains as a critical component of the NCPI, and is currently developing the NCPI FHIR Implementation Guide V2. 
 
 
 <h3> Working Group Materials </h3>
