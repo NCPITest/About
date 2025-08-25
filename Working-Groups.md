@@ -28,3 +28,8 @@ Chair:
 
 The Search Working Group has been established and the charter is undergoing development, and meets on the 4th Tuesday of each month. <br>
 This working group spearheads improvements to the utility of search across the NCPI cloud platforms with a focus on dataset discovery and cohort building.
+
+
+<h3> Past Working Groups </h3>
+
+Before the establishment of the ACC, NCPI was coordinated and run by a series of collaborating working groups. More information about past working groups can be found [here](Past-Working-Groups.md).
