@@ -18,4 +18,9 @@ When established in 2023 (CHECK YEAR), the ACC assumed the responsibilities of t
 <h3> Working Group Materials </h3>
 <h4> Systems Interoperations Working Group </h4>
 
-* A 
+Various documents from the Systems Interoperations WG are still available to access (links to be added later)
+*  2020 Working Group Update Slides
+*  Draft Working Group Charter
+*  Draft Technical Plan
+
+
