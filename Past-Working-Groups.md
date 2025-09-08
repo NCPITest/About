@@ -4,7 +4,7 @@ Before the formation of the NCPI Administrative Coordinating Center (ACC), NCPI 
 
  | Working Group | Activities |
  | ------------- | --------- |
- | Coordination Working Group | Facilitate WG calls <br> Facilitate workshop organization | 
+ | Coordination Working Group | Facilitate Wworking Group calls <br> Facilitate workshop organization | 
  | Community Governance Working Group | Refine interoperability principlels white paper <br> Understand roadblocks to interoperability across different communities (resarchers, developers, funders, etc.) |
  | Systems Interoperation Working Group | Identify research use cases for interoperability and test/implement standards <br> Establish charter and develop 12-month roadmap |
  | Training Working Group | Host trainings to familiarize developers with the different NCPI platforms <br> Document cloud costs through examples |
